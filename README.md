@@ -1,4 +1,4 @@
-# AOR LMU Telemetry Tool
+# LMU Telemetry Tool
 
 A free, browser-based telemetry analyser for **Le Mans Ultimate**. It reads the game's own telemetry recordings and helps you find lap time: compare two laps corner by corner, replay a lap with live pedal inputs, compare car setups, and print a written coaching report.
 
